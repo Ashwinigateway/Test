@@ -1,2 +1,2 @@
-CD "D:\Test_Github\Test"
+CD ".\Test"
 python Test.py > log.txt
